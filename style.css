@@ -1,0 +1,111 @@
+.logo-containerI{
+    background-image: url(affiche/Acceuil.jfif);
+    height: 705px;
+    margin: auto;
+    padding: 0px;
+}
+.logo-containerDa{
+    background-image: url(affiche/dakar.jpg);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+
+.logo-containerP{
+    background-image: url(affiche/paris.jfif);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.logo-containerT{
+    background-image: url(affiche/tokyo.jfif);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+
+.logo-containerR{
+    background-image: url(affiche/rio.jfif);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.logo-containerD{
+    background-image: url(affiche/dubai.jfif);
+    height: 670px;
+    margin: auto;
+    padding: 0px;
+}
+.menu{
+   background-color:transparent;
+   width: 1500px;
+   height: 80px;
+   margin: auto;
+   padding: 0px;
+}
+.menu ul{
+    margin-top:0px;
+    padding:10px;
+   
+}
+li{ 
+    display: inline-block;
+    width: 240px; 
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+    font-size: x-large;
+    height: 35px;     
+    font-style: italic;
+    font-weight: bolder;
+}
+p{
+    font-size: x-large;
+}
+li:hover{
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+    background-color: rgb(0, 0, 0);
+    transform:skewX(20deg);
+}
+a{
+    text-decoration: none ;
+    color: inherit;
+}
+
+.contenuDR{
+    margin: 0 auto;
+    width: 100%;
+    height:2880px;
+    background-color: rgb(255, 255, 255);
+    -webkit-background-size:cover; 
+    background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+}
+.contenuT{
+    margin: 0 auto;
+    width: 100%;
+    height:3300px;
+    background-color: rgb(255, 255, 255);
+    -webkit-background-size:cover; 
+    background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+}
+.stence{
+
+    font-size: x-large;
+    font-weight:bold;
+    text-align: center;
+}
+.div1{
+    float: left;
+}
+.div2{
+    float: left;
+}
+.div3{
+   
+    float: right;
+}
